@@ -53,6 +53,7 @@
 * 조건문
   * [14681](https://github.com/uzoo0724/Today-I-Learned/blob/f7480cd26a9cbfb22cba98fdf568116b497c8bf9/BaekJoon/basics/B14681.java)
   * [2884](https://github.com/uzoo0724/Today-I-Learned/blob/240fb9c4ff8d3cdf90627440aca2c191eb839e3d/BaekJoon/basics/B2884.java)
+  * [2525](https://github.com/uzoo0724/Today-I-Learned/blob/90ecc14984358343af533a20ebc9938bd4029d8d/BaekJoon/basics/B2525.java)
 * 반복문
 * 1차원 배열
 * 함수
