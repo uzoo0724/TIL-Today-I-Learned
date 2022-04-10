@@ -48,8 +48,8 @@
 코딩테스트 대비
 ~~~
 * 입출력과 사칙연산
-  * [10926: ??!](https://github.com/uzoo0724/Today-I-Learned/blob/3e98b775d316b2f85bd3c47e7e3871e315596913/BaekJoon/basics/B10926.java)
-  * 18108
+  * [10926](https://github.com/uzoo0724/Today-I-Learned/blob/3e98b775d316b2f85bd3c47e7e3871e315596913/BaekJoon/basics/B10926.java)
+  * [18108](https://github.com/uzoo0724/Today-I-Learned/blob/128a3296f0d52a86def55ceae667a1d7611f0e48/BaekJoon/basics/B18108.java)
 * 조건문
 * 반복문
 * 1차원 배열
