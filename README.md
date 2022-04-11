@@ -56,6 +56,10 @@
   * [2525](https://github.com/uzoo0724/Today-I-Learned/blob/90ecc14984358343af533a20ebc9938bd4029d8d/BaekJoon/basics/B2525.java)
   * [2480](https://github.com/uzoo0724/Today-I-Learned/blob/2e49163cac319c8e88fd5b396f9062cfe7c6f64f/BaekJoon/basics/B2480.java)
 * 반복문
+  * [15552]()
+  * [2742]()
+  * [11021]()
+  * [11022]()
 * 1차원 배열
 * 함수
 * 문자열
