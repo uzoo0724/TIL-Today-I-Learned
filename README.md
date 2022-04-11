@@ -57,9 +57,9 @@
   * [2480](https://github.com/uzoo0724/Today-I-Learned/blob/2e49163cac319c8e88fd5b396f9062cfe7c6f64f/BaekJoon/basics/B2480.java)
 * 반복문
   * [15552](https://github.com/uzoo0724/Today-I-Learned/blob/35d7dce5c6de395ba3bce284a1436c1c7f54e6ee/BaekJoon/basics/B15552.java)
-  * [2742](https://github.com/uzoo0724/Today-I-Learned/blob/35d7dce5c6de395ba3bce284a1436c1c7f54e6ee/BaekJoon/basics/B2742.java)
-  * [11021]()
-  * [11022]()
+  * [2742](https://github.com/uzoo0724/Today-I-Learned/blob/92b679488c5d51c09b887ae80fc25fa7b5ae4563/BaekJoon/basics/B2742.java)
+  * [11021](https://github.com/uzoo0724/Today-I-Learned/blob/92b679488c5d51c09b887ae80fc25fa7b5ae4563/BaekJoon/basics/B11021.java)
+  * [11022](https://github.com/uzoo0724/Today-I-Learned/blob/92b679488c5d51c09b887ae80fc25fa7b5ae4563/BaekJoon/basics/B11022.java)
 * 1차원 배열
 * 함수
 * 문자열
