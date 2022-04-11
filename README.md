@@ -17,30 +17,30 @@
 ~~~
 
 ### *2020*
-<details><summary> </summary>
+<!--<details><summary> </summary>
   
   #### 01 - [한이음: 여행 추천 플랫폼 프로젝트 `1`]("준비중")
   #### 02 - [어플 제작 프로젝트 `3`]("준비중")
   
-</details>
+</details>-->
 
 ### *2021*
-<details><summary> </summary>
+<!--<details><summary> </summary>
   
   #### 01 - [PIPO 공모전 `3`]("준비중")
   #### 02 - [교내SW경진대회: 에코라이프 프로젝트 `3`]("준비중")
   #### 03 - [웹 서버 개발 `2`]("준비중")
   #### 04 - [동네 소통 서비스 어플 런칭 프로젝트 `2`]("준비중")
     
-</details>
+</details>-->
 
 ### *2022*
-<details><summary> </summary>
+<!--<details><summary> </summary>
   
   #### 01 - [동네 소통 서비스 어플 런칭 프로젝트 `2`]("준비중")
   #### 02 - [지도 구현 프로젝트 `2`]("준비중")
   
-</details>
+</details>-->
 
 
 ## 백준 알고리즘 복습
@@ -54,6 +54,7 @@
   * [14681](https://github.com/uzoo0724/Today-I-Learned/blob/f7480cd26a9cbfb22cba98fdf568116b497c8bf9/BaekJoon/basics/B14681.java)
   * [2884](https://github.com/uzoo0724/Today-I-Learned/blob/240fb9c4ff8d3cdf90627440aca2c191eb839e3d/BaekJoon/basics/B2884.java)
   * [2525](https://github.com/uzoo0724/Today-I-Learned/blob/90ecc14984358343af533a20ebc9938bd4029d8d/BaekJoon/basics/B2525.java)
+  * [2480](https://github.com/uzoo0724/Today-I-Learned/blob/2e49163cac319c8e88fd5b396f9062cfe7c6f64f/BaekJoon/basics/B2480.java)
 * 반복문
 * 1차원 배열
 * 함수
