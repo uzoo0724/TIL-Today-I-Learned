@@ -60,6 +60,8 @@
   * [2742](https://github.com/uzoo0724/Today-I-Learned/blob/92b679488c5d51c09b887ae80fc25fa7b5ae4563/BaekJoon/basics/B2742.java)
   * [11021](https://github.com/uzoo0724/Today-I-Learned/blob/92b679488c5d51c09b887ae80fc25fa7b5ae4563/BaekJoon/basics/B11021.java)
   * [11022](https://github.com/uzoo0724/Today-I-Learned/blob/92b679488c5d51c09b887ae80fc25fa7b5ae4563/BaekJoon/basics/B11022.java)
+  * [2438]
+  * [2439]
 * 1차원 배열
 * 함수
 * 문자열
